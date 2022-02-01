@@ -3,7 +3,7 @@ import Main from "./pages/Main";
 
 function App() {
   return (
-    <div className="bg-cr h-screen">
+    <div className="">
       <Header />
       <div className="pt-20">
         <Main />
