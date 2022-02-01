@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="">
       <Header />
-      <div className="pt-20">
+      <div className="pt-20 phone:pt-14">
         <Main />
       </div>
     </div>

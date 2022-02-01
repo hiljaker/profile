@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin } from "react-icons/fa"
 
 function Header() {
     return (
-        <div className='bg-re fixed w-full flex justify-between items-center px-10 phone:px-5 h-20 shadow-md'>
+        <div className='bg-re fixed w-full flex justify-between items-center px-10 phone:px-5 h-20 phone:h-14 shadow-md'>
             <p className='vollkron font-bold text-xl text-cr cursor-pointer block phone:hidden'>
                 Hilmawan Zaky Rukmana
             </p>
